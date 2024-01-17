@@ -12,7 +12,7 @@ import { SecondComponentComponent } from './second-component/second-component.co
 })
 export class AppComponent {
   title = 'angular-gitpod';
-  text1:string="ciao";
-  text2:string="component";
+  text1:string="banane";
+  text2:string="ciclamini";
 
 }
